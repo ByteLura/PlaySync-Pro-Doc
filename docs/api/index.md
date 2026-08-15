@@ -3,7 +3,6 @@ layout: default
 title: Scripting & API
 nav_order: 6
 has_children: true
-permalink: /docs/api/
 description: "Reference guide for PlaySync Pro C# attributes, events, and scripting integrations."
 ---
 

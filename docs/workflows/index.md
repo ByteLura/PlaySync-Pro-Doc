@@ -3,7 +3,6 @@ layout: default
 title: Workflows & Recipes
 nav_order: 7
 has_children: true
-permalink: /docs/workflows/
 description: "Practical recipes and production workflows for game balancing, level design, and team collaboration."
 ---
 

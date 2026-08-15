@@ -3,7 +3,6 @@ layout: default
 title: Core Features
 nav_order: 5
 has_children: true
-permalink: /docs/features/
 description: "Explore the 8 core engineering modules powering PlaySync Pro."
 ---
 

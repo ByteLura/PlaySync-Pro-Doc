@@ -3,7 +3,6 @@ layout: default
 title: Home
 nav_order: 1
 description: "PlaySync Pro is a high-velocity Play Mode persistence, live diff staging, and balance management suite for Unity."
-permalink: /
 ---
 
 # PlaySync Pro Documentation
@@ -14,7 +13,7 @@ permalink: /
 
 PlaySync Pro is an enterprise-grade Unity Editor extension that solves one of game development's most persistent headaches: lost runtime parameter tweaks. Modify GameObjects, adjust physics balances, tune AI speeds, and test lighting conditions in Play Mode—then selectively stage, diff, and commit those changes directly back into your Edit Mode scene with 100% clean Unity Undo support.
 
-[Get Started](docs/getting-started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get Started]({{ '/docs/getting-started.html' | relative_url }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View on Asset Store](https://assetstore.unity.com/publishers/128366){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
